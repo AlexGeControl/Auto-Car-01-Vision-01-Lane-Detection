@@ -68,29 +68,29 @@ cv2.line(
 
 The detected lanes in test images are shown below:
 
-1. solidWhiteCurve.jpg
+1. Solid White Curve
 
-![Solid White Curve][image1]: ./test_images_output/solidWhiteCurve.jpg
+<img src="test_images_output/solidWhiteCurve.jpg" width="480" alt="Solid White Curve" />
 
-2. solidWhiteRight.jpg
+2. Solid White Right
 
-![Solid White Right][image2]: ./test_images_output/solidWhiteRight.jpg
+<img src="test_images_output/solidWhiteRight.jpg" width="480" alt="Solid White Right" />
 
-3. solidYellowCurve.jpg
+3. Solid Yellow Curve
 
-![Solid Yellow Curve][image3]: ./test_images_output/solidYellowCurve.jpg
+<img src="test_images_output/solidYellowCurve.jpg" width="480" alt="Solid Yellow Curve" />
 
-4. solidYellowCurve2.jpg
+4. Solid Yellow Curve2
 
-![Solid Yellow Curve2][image4]: ./test_images_output/solidYellowCurve2.jpg
+<img src="test_images_output/solidYellowCurve2.jpg" width="480" alt="Solid Yellow Curve2" />
 
-5. solidYellowLeft.jpg
+5. Solid Yellow Left
 
-![Solid Yellow Left][image5]: ./test_images_output/solidYellowLeft.jpg
+<img src="test_images_output/solidYellowLeft.jpg" width="480" alt="Solid Yellow Left" />
 
-6. whiteCarLaneSwitch.jpg
+6. White Car Lane Switch
 
-![White Car Lane Switch][image6]: ./test_images_output/whiteCarLaneSwitch.jpg
+<img src="test_images_output/whiteCarLaneSwitch.jpg" width="480" alt="White Car Lane Switch" />
 
 ### 2. Identify potential shortcomings with your current pipeline
 
@@ -112,5 +112,3 @@ Some possible improvements would be to:
 probabilistic Hough transform, etc;
 
 2. Use stronger detector for lane detection like R-CNN & Yolo.
-
-Another potential improvement could be to ...
